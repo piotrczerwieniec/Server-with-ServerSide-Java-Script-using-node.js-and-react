@@ -1,4 +1,4 @@
-# coding-project-template
+# step by step
 1. Open a terminal window by using the menu in the editor: Terminal > New Terminal.
 verify that node CLI is installed.
 node --version
